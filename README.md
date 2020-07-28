@@ -10,5 +10,5 @@ Since June 2020 I has followed my creation in joining [Yoast](https://yoast.com/
 * [Lopo.it](https://lopo.it)
 * [@lopo](https://twitter.com/lopo) on Twitter
 
-<hr/>
+***
 _illustration by Erwin Brouwer_
