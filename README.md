@@ -1,4 +1,4 @@
-## (pronounced /enˈriːko bat'tɔkki/)
+## (pronounced /enˈriːko batˈtɔkki/)
  ...but friends just call me Lopo.
 
 <img src="https://raw.githubusercontent.com/enricobattocchi/enricobattocchi/master/duplicate-enrico.png" alt="Illustration of multiple Enricos created as duplicates of the original one">
