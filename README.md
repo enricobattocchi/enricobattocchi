@@ -11,4 +11,4 @@ In 2007 I started developing [Duplicate Post](https://wordpress.org/plugins/dupl
 * [@lopo](https://twitter.com/lopo) on Twitter
 
 ***
-_illustration by Erwin Brouwer_
+_illustration by [Erwin Brouwer](https://github.com/ErwinYoast)_
