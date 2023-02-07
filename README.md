@@ -8,6 +8,7 @@ In 2007 I started developing [Duplicate Post](https://wordpress.org/plugins/dupl
 [Since June 2020](https://yoast.com/announcement-duplicate-post-joins-yoast/) I have followed my creation in joining [Yoast](https://yoast.com/), where I work as a web developer.
 
 * [Lopo.it](https://lopo.it)
+* [@lopo@mastodon.uno](https://mastodon.uno/@lopo) on Mastodon
 * [@lopo](https://twitter.com/lopo) on Twitter
 
 ***
